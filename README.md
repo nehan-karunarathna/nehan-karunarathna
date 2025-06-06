@@ -1,16 +1,17 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Hey there, I'm Nehan </a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm Nehan </a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 
 
 
+## 📖 About me
 
-## 📖 About me>
 
-* 💻 I'm a Full Stack Web Developer
-* 🎓 I'm a Computer Science student (graduating in 2027)
-* 🌱 Leveling up my backend skills with **Springboot**
-* 📫 Let’s connect! Reach me at **nehankarunarathna0704@gmail.com**
+* 🎓 I'm a Computer Science Undergraduate (graduating in 2027)
+*  💻 Enthusiastic about software development and the innovations shaping tomorrow.
+*  🤝 Passionate about learning together and building better, together.
+* 🚀 Exploring React, Node.js, and cloud tech to build scalable apps.
+* 🎯 Always aiming to write clean, efficient, and maintainable code that solves real problems.
 
 
 
@@ -67,13 +68,9 @@
 
 
 
-
-
-
-
 ## 🙋‍♂️ Connect with me:
 <p align="center">
-<a href="https://www.linkedin.com/in/nehan-karunarathna-b80061301/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" alt=“LinkedIn" width=70 height=35/></a>
-<a href="mailto:nehankarunarathna0704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?logo=gmail&style=flat-square" alt=“Gmail" width=75 height=35/></a>
-<a href="https://www.instagram.com/neh.aannn/"><img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=flat-square" alt=“Instagram" width=85 height=35/></a>
+<a href="https://www.linkedin.com/in/nehan-karunarathna-b80061301/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" alt=“LinkedIn" width=80 height=35/></a>
+<a href="mailto:nehankarunarathna0704@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?logo=gmail&style=flat-square" alt=“Gmail" width=75 height=37/></a>
+<a href="https://www.instagram.com/neh.aannn/"><img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&style=flat-square" alt=“Instagram" width=90 height=37/></a>
 </p>
